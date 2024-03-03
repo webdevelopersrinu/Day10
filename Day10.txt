@@ -1,0 +1,24 @@
+1) what is while loop and it's uses :-
+
+A while loop is a control flow statement that allows code to be executed repeatedly based on a given condition. It repeatedly executes a target statement as long as the condition remains true. It's useful for iterating over a block of code until a specific condition is met, making it ideal for tasks like reading input until a certain value is encountered, processing data until a certain criteria is fulfilled, or performing actions until a termination condition is reached.
+
+2)what is function and way use function:-
+
+A function is a block of reusable code that performs a specific task. It takes input, processes it, and produces output. Functions help organize code, promote reusability, and simplify complex tasks by breaking them into smaller, manageable parts. They are used by calling them with appropriate arguments to perform specific operations, and they can return results or modify data as needed.
+
+ 3)map method and parameters in:-
+
+the map() function is used to apply a specified function to each item in an iterable (like a list) and return a new iterable with the results. Its basic
+
+ syntax is:
+          map(function, iterable)
+
+function: The function to apply to each item in the iterable.
+
+iterable: The iterable (e.g., list, tuple) whose elements will be passed to the function one by one.
+
+4)position arguments and keyword arguments :-
+
+Positional arguments are parameters passed to a function based on their position in the function call. The order in which they are passed matters, as each argument corresponds to a specific parameter defined in the function.
+
+Keyword arguments, on the other hand, are parameters passed to a function with their corresponding variable names. This allows you to specify which argument corresponds to which parameter explicitly, regardless of their position in the function call. Keyword arguments are useful for making function calls more readable and for providing default values to parameters.
